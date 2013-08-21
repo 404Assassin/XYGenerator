@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" compiles="true" parentProject="592450bf-86a6-4e1b-a704-41252c7b7451" projectUUID="592450bf-86a6-4e1b-a704-41252c7b7451" pureCatalystProject="false" sdkVersion="4.6.0" uuid="79b9db71-7ad3-4fa1-9443-003eaa651123" version="15">
+  <projects/>
+  <src>
+    <linked isMain="false" location="${DOCUMENTS}/RectangleSpecs/src" path="${DOCUMENTS}/RectangleSpecs/src" position="0" uuid="79b9db71-7ad3-4fa1-9443-003eaa651123"/>
+  </src>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="79b9db71-7ad3-4fa1-9443-003eaa651123"/>
+    <linked location="C:/workspace/XYGeneratorAIR/libs" path="/libs" position="1" uuid="79b9db71-7ad3-4fa1-9443-003eaa651123"/>
+  </swc>
+  <misc/>
+  <theme/>
+  <mxmlFormattingPrefs groupAttributesByState="true" maxLineWidth="100" mxmlAlignAttributes="true" mxmlAttributeOrder="id,userLabel,includeIn,excludeFrom,visible,x,y,z,left,right,top,bottom,width,height,minWidth,minHeight,maxWidth,maxHeight,label" mxmlKeepAttributeValuesOrganized="true"/>
+</fxpProperties>

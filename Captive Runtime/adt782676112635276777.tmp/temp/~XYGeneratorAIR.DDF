@@ -1,0 +1,37 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=C:\workspace\XYGeneratorAIR\Captive Runtime\adt782676112635276777.tmp\temp\~XYGeneratorAIR.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=C:\workspace\XYGeneratorAIR\Captive Runtime\adt782676112635276777.tmp\temp\~XYGeneratorAIR_LAYOUT.INF
+.Set RptFileName=C:\workspace\XYGeneratorAIR\Captive Runtime\adt782676112635276777.tmp\temp\~XYGeneratorAIR.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\ADOBEA~1.DLL
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\ADOBEA~1.VCH
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\adobecp.dll
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\adobecp.vch
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\ADOBEC~1.DLL
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\APPLIC~1.XML
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\CAPTIV~1.EXE
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\FLASHS~1.CSS
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\FONTEN~1.SWF
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\hash
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\INSTAL~1.CMD
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\mimetype
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\NPSWF32.dll
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\SIGNAT~1.XML
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\WebKit.dll
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\XYGENE~1.EXE
+C:\WORKSP~1\XYGENE~3\CAPTIV~1\ADT782~1.TMP\temp\XYGENE~1.SWF
